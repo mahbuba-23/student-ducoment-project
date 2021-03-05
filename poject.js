@@ -41,7 +41,8 @@ function clkbtn () {
          document.write('<img src="images/pic8.jpg"> <br/> roll no : 8 <br/> class : 10 <br/> name: kobir hasan <br/> mobile no : 01712302308');
          break;
 
-         
+          default:
+          document.write('Your roll no is not right')
 
     }
 
